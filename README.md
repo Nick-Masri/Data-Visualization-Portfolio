@@ -1,5 +1,10 @@
 # Data-Visualization-Portfolio
-
 ![](1dayoperationalsummary.png)
-
 ![](chargerpowersensitivity.png)
+![](cloudy.png)
+![](gridandsolarutilization.png)
+![](gridpowavail.png)
+![](gridpowertimeuse.png)
+![](operationalsummary.png)
+![](touconsumption.png)
+![](tougraph.png)
